@@ -6,11 +6,11 @@ title: Xiang Fang
 superuser: true
 
 # Role/position/tagline
-role: M.A Mathematics of Finance
+role: M.A. in Mathematics of Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Columbia Univeristy
+- name: Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,22 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Probability
+- Stochastic Analysis
+- Mathematical Finance
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.A. in Mathematics of Finance
+    institution: Columbia University
+    year: 2020
+  - course: B.S. in Mathematics and Applied Mathematics
+    institution: Zhejiang University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
